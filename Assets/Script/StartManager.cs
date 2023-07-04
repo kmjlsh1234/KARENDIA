@@ -229,9 +229,6 @@ public class StartManager : MonoBehaviour
         LoadingPanel.SetActive(false);
     }
 
-    
-
-
     public void CheckPlayFabID()
     {
         Debug.Log("PlayFab아이디 가져오기");
