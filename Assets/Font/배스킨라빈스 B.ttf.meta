@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 636545771cb5bc14088655578955ad22
+guid: 679c5c182f5060c4993a1dd079eeeff5
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -10,7 +10,8 @@ TrueTypeFontImporter:
   includeFontData: 1
   fontNames:
   - BR B
-  fallbackFontReferences: []
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 636545771cb5bc14088655578955ad22, type: 3}
   customCharacters: 
   fontRenderingMode: 0
   ascentCalculationMode: 1
